@@ -1,0 +1,14 @@
+layout_spectrum: 0.5802079427521676
+typography_spectrum: 0.25514088198542595
+color:
+  brandStrength: 0.09858909295871854
+  lightness: 0.5944640126544982
+  saturation: 0.9949525380507112
+  rhythmicContrast: 0.10015409346669912
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Cost Segregation Solutions
