@@ -1,4 +1,3 @@
-layout_spectrum: 0.5802079427521676
 typography_spectrum: 0.25514088198542595
 color:
   brandStrength: 0.09858909295871854
@@ -11,5 +10,7 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
+layout_spectrum: 0.5802079427521676
 name: Cost Segregation Solutions
 title: Cost Segregation Services
+description: World Class Advisory for the Small Business
